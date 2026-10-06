@@ -16,7 +16,7 @@ cp .env.example .env          # then add your GOOGLE_API_KEY
 
 Get a free Gemini API key at https://aistudio.google.com/apikey
 
-## 2. Add your PDFs
+## 2. Add PDFs
 
 Put each university's PDFs in its own folder under `data/pdfs/`, and name each
 file after what it contains so the bot can tag it correctly:
